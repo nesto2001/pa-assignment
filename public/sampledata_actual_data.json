@@ -1,0 +1,110 @@
+[
+  {
+    "property": "SPH",
+    "totalRoom": 744,
+    "roomRevenue": 234458.7,
+    "fnbRevenue": 609316.22,
+    "otherRevenue": 51547.3,
+    "totalRevenue": 895322.22,
+    "OccPer": 22.7990591397849
+  },
+  {
+    "property": "PP02",
+    "totalRoom": 420,
+    "roomRevenue": 320152.75,
+    "fnbRevenue": 180987.46,
+    "otherRevenue": 90321.34,
+    "totalRevenue": 591461.55,
+    "OccPer": 68.2
+  },
+  {
+    "property": "SR01",
+    "totalRoom": 280,
+    "roomRevenue": 165870.2,
+    "fnbRevenue": 70321.99,
+    "otherRevenue": 45432.11,
+    "totalRevenue": 281624.3,
+    "OccPer": 57.8
+  },
+  {
+    "property": "SR02",
+    "totalRoom": 330,
+    "roomRevenue": 198432.55,
+    "fnbRevenue": 80547.76,
+    "otherRevenue": 52111.28,
+    "totalRevenue": 331091.59,
+    "OccPer": 50.4
+  },
+  {
+    "property": "SR03",
+    "totalRoom": 370,
+    "roomRevenue": 225791.66,
+    "fnbRevenue": 95432.0,
+    "otherRevenue": 60923.44,
+    "totalRevenue": 382147.1,
+    "OccPer": 49.1
+  },
+  {
+    "property": "SR04",
+    "totalRoom": 340,
+    "roomRevenue": 203548.9,
+    "fnbRevenue": 85213.1,
+    "otherRevenue": 55432.33,
+    "totalRevenue": 344194.33,
+    "OccPer": 43.7
+  },
+  {
+    "property": "SV01",
+    "totalRoom": 480,
+    "roomRevenue": 375621.89,
+    "fnbRevenue": 150987.23,
+    "otherRevenue": 98432.11,
+    "totalRevenue": 624041.23,
+    "OccPer": 60.8
+  },
+  {
+    "property": "SV02",
+    "totalRoom": 530,
+    "roomRevenue": 420987.43,
+    "fnbRevenue": 168432.55,
+    "otherRevenue": 110321.34,
+    "totalRevenue": 699741.32,
+    "OccPer": 64.2
+  },
+  {
+    "property": "SV03",
+    "totalRoom": 420,
+    "roomRevenue": 255321.99,
+    "fnbRevenue": 102432.77,
+    "otherRevenue": 66321.99,
+    "totalRevenue": 424076.75,
+    "OccPer": 55.9
+  },
+  {
+    "property": "SV04",
+    "totalRoom": 370,
+    "roomRevenue": 225432.11,
+    "fnbRevenue": 95321.89,
+    "otherRevenue": 62987.43,
+    "totalRevenue": 383741.43,
+    "OccPer": 52.8
+  },
+  {
+    "property": "KP01",
+    "totalRoom": 290,
+    "roomRevenue": 187654.32,
+    "fnbRevenue": 78543.21,
+    "otherRevenue": 50876.54,
+    "totalRevenue": 317074.07,
+    "OccPer": 48.9
+  },
+  {
+    "property": "KP02",
+    "totalRoom": 240,
+    "roomRevenue": 148765.43,
+    "fnbRevenue": 62987.43,
+    "otherRevenue": 40123.21,
+    "totalRevenue": 251876.07,
+    "OccPer": 42.1
+  }
+]

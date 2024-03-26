@@ -1,0 +1,1094 @@
+﻿[
+  {
+    "date": "01/02/2020",
+    "totalOcc": 166,
+    "arrRooms": 109,
+    "depRooms": 66
+  },
+  {
+    "date": "02/02/2020",
+    "totalOcc": 172,
+    "arrRooms": 91,
+    "depRooms": 85
+  },
+  {
+    "date": "03/02/2020",
+    "totalOcc": 132,
+    "arrRooms": 77,
+    "depRooms": 117
+  },
+  {
+    "date": "04/02/2020",
+    "totalOcc": 118,
+    "arrRooms": 56,
+    "depRooms": 70
+  },
+  {
+    "date": "05/02/2020",
+    "totalOcc": 103,
+    "arrRooms": 75,
+    "depRooms": 90
+  },
+  {
+    "date": "06/02/2020",
+    "totalOcc": 100,
+    "arrRooms": 54,
+    "depRooms": 57
+  },
+  {
+    "date": "07/02/2020",
+    "totalOcc": 116,
+    "arrRooms": 58,
+    "depRooms": 42
+  },
+  {
+    "date": "08/02/2020",
+    "totalOcc": 112,
+    "arrRooms": 80,
+    "depRooms": 84
+  },
+  {
+    "date": "09/02/2020",
+    "totalOcc": 94,
+    "arrRooms": 46,
+    "depRooms": 64
+  },
+  {
+    "date": "10/02/2020",
+    "totalOcc": 88,
+    "arrRooms": 42,
+    "depRooms": 48
+  },
+  {
+    "date": "11/02/2020",
+    "totalOcc": 104,
+    "arrRooms": 61,
+    "depRooms": 45
+  },
+  {
+    "date": "12/02/2020",
+    "totalOcc": 122,
+    "arrRooms": 77,
+    "depRooms": 59
+  },
+  {
+    "date": "13/02/2020",
+    "totalOcc": 136,
+    "arrRooms": 80,
+    "depRooms": 66
+  },
+  {
+    "date": "14/02/2020",
+    "totalOcc": 139,
+    "arrRooms": 88,
+    "depRooms": 85
+  },
+  {
+    "date": "15/02/2020",
+    "totalOcc": 439,
+    "arrRooms": 412,
+    "depRooms": 111
+  },
+  {
+    "date": "16/02/2020",
+    "totalOcc": 377,
+    "arrRooms": 46,
+    "depRooms": 108
+  },
+  {
+    "date": "17/02/2020",
+    "totalOcc": 357,
+    "arrRooms": 41,
+    "depRooms": 61
+  },
+  {
+    "date": "18/02/2020",
+    "totalOcc": 330,
+    "arrRooms": 21,
+    "depRooms": 48
+  },
+  {
+    "date": "19/02/2020",
+    "totalOcc": 403,
+    "arrRooms": 167,
+    "depRooms": 94
+  },
+  {
+    "date": "20/02/2020",
+    "totalOcc": 166,
+    "arrRooms": 31,
+    "depRooms": 267
+  },
+  {
+    "date": "21/02/2020",
+    "totalOcc": 115,
+    "arrRooms": 54,
+    "depRooms": 105
+  },
+  {
+    "date": "22/02/2020",
+    "totalOcc": 80,
+    "arrRooms": 32,
+    "depRooms": 67
+  },
+  {
+    "date": "23/02/2020",
+    "totalOcc": 56,
+    "arrRooms": 17,
+    "depRooms": 41
+  },
+  {
+    "date": "24/02/2020",
+    "totalOcc": 46,
+    "arrRooms": 17,
+    "depRooms": 27
+  },
+  {
+    "date": "25/02/2020",
+    "totalOcc": 43,
+    "arrRooms": 8,
+    "depRooms": 11
+  },
+  {
+    "date": "26/02/2020",
+    "totalOcc": 79,
+    "arrRooms": 43,
+    "depRooms": 7
+  },
+  {
+    "date": "27/02/2020",
+    "totalOcc": 44,
+    "arrRooms": 1,
+    "depRooms": 46
+  },
+  {
+    "date": "28/02/2020",
+    "totalOcc": 44,
+    "arrRooms": 11,
+    "depRooms": 5
+  },
+  {
+    "date": "29/02/2020",
+    "totalOcc": 27,
+    "arrRooms": 3,
+    "depRooms": 18
+  },
+  {
+    "date": "01/03/2020",
+    "totalOcc": 47,
+    "arrRooms": 2,
+    "depRooms": 5
+  },
+  {
+    "date": "02/03/2020",
+    "totalOcc": 49,
+    "arrRooms": 3,
+    "depRooms": 5
+  },
+  {
+    "date": "03/03/2020",
+    "totalOcc": 56,
+    "arrRooms": 4,
+    "depRooms": 0
+  },
+  {
+    "date": "04/03/2020",
+    "totalOcc": 44,
+    "arrRooms": 0,
+    "depRooms": 3
+  },
+  {
+    "date": "05/03/2020",
+    "totalOcc": 34,
+    "arrRooms": 1,
+    "depRooms": 3
+  },
+  {
+    "date": "06/03/2020",
+    "totalOcc": 38,
+    "arrRooms": 2,
+    "depRooms": 2
+  },
+  {
+    "date": "07/03/2020",
+    "totalOcc": 37,
+    "arrRooms": 3,
+    "depRooms": 2
+  },
+  {
+    "date": "08/03/2020",
+    "totalOcc": 37,
+    "arrRooms": 4,
+    "depRooms": 2
+  },
+  {
+    "date": "09/03/2020",
+    "totalOcc": 37,
+    "arrRooms": 3,
+    "depRooms": 6
+  },
+  {
+    "date": "10/03/2020",
+    "totalOcc": 37,
+    "arrRooms": 5,
+    "depRooms": 2
+  },
+  {
+    "date": "11/03/2020",
+    "totalOcc": 46,
+    "arrRooms": 1,
+    "depRooms": 4
+  },
+  {
+    "date": "12/03/2020",
+    "totalOcc": 36,
+    "arrRooms": 0,
+    "depRooms": 6
+  },
+  {
+    "date": "13/03/2020",
+    "totalOcc": 46,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "14/03/2020",
+    "totalOcc": 30,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "15/03/2020",
+    "totalOcc": 33,
+    "arrRooms": 1,
+    "depRooms": 1
+  },
+  {
+    "date": "16/03/2020",
+    "totalOcc": 40,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "17/03/2020",
+    "totalOcc": 26,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "18/03/2020",
+    "totalOcc": 40,
+    "arrRooms": 9,
+    "depRooms": 0
+  },
+  {
+    "date": "19/03/2020",
+    "totalOcc": 48,
+    "arrRooms": 1,
+    "depRooms": 1
+  },
+  {
+    "date": "20/03/2020",
+    "totalOcc": 76,
+    "arrRooms": 3,
+    "depRooms": 1
+  },
+  {
+    "date": "21/03/2020",
+    "totalOcc": 37,
+    "arrRooms": 1,
+    "depRooms": 2
+  },
+  {
+    "date": "22/03/2020",
+    "totalOcc": 28,
+    "arrRooms": 2,
+    "depRooms": 10
+  },
+  {
+    "date": "23/03/2020",
+    "totalOcc": 57,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "24/03/2020",
+    "totalOcc": 227,
+    "arrRooms": 1,
+    "depRooms": 1
+  },
+  {
+    "date": "25/03/2020",
+    "totalOcc": 55,
+    "arrRooms": 2,
+    "depRooms": 2
+  },
+  {
+    "date": "26/03/2020",
+    "totalOcc": 44,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "27/03/2020",
+    "totalOcc": 37,
+    "arrRooms": 2,
+    "depRooms": 1
+  },
+  {
+    "date": "28/03/2020",
+    "totalOcc": 31,
+    "arrRooms": 0,
+    "depRooms": 2
+  },
+  {
+    "date": "29/03/2020",
+    "totalOcc": 44,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "30/03/2020",
+    "totalOcc": 50,
+    "arrRooms": 2,
+    "depRooms": 0
+  },
+  {
+    "date": "31/03/2020",
+    "totalOcc": 43,
+    "arrRooms": 0,
+    "depRooms": 2
+  },
+  {
+    "date": "01/04/2020",
+    "totalOcc": 31,
+    "arrRooms": 1,
+    "depRooms": 0
+  },
+  {
+    "date": "02/04/2020",
+    "totalOcc": 36,
+    "arrRooms": 1,
+    "depRooms": 1
+  },
+  {
+    "date": "03/04/2020",
+    "totalOcc": 34,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "04/04/2020",
+    "totalOcc": 26,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "05/04/2020",
+    "totalOcc": 26,
+    "arrRooms": 1,
+    "depRooms": 1
+  },
+  {
+    "date": "06/04/2020",
+    "totalOcc": 26,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "07/04/2020",
+    "totalOcc": 25,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "08/04/2020",
+    "totalOcc": 46,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "09/04/2020",
+    "totalOcc": 24,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "10/04/2020",
+    "totalOcc": 30,
+    "arrRooms": 1,
+    "depRooms": 0
+  },
+  {
+    "date": "11/04/2020",
+    "totalOcc": 33,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "12/04/2020",
+    "totalOcc": 25,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "13/04/2020",
+    "totalOcc": 41,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "14/04/2020",
+    "totalOcc": 43,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "15/04/2020",
+    "totalOcc": 37,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "16/04/2020",
+    "totalOcc": 24,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "17/04/2020",
+    "totalOcc": 29,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "18/04/2020",
+    "totalOcc": 26,
+    "arrRooms": 2,
+    "depRooms": 0
+  },
+  {
+    "date": "19/04/2020",
+    "totalOcc": 26,
+    "arrRooms": 2,
+    "depRooms": 2
+  },
+  {
+    "date": "20/04/2020",
+    "totalOcc": 26,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "21/04/2020",
+    "totalOcc": 24,
+    "arrRooms": 0,
+    "depRooms": 2
+  },
+  {
+    "date": "22/04/2020",
+    "totalOcc": 62,
+    "arrRooms": 1,
+    "depRooms": 1
+  },
+  {
+    "date": "23/04/2020",
+    "totalOcc": 51,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "24/04/2020",
+    "totalOcc": 24,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "25/04/2020",
+    "totalOcc": 36,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "26/04/2020",
+    "totalOcc": 29,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "27/04/2020",
+    "totalOcc": 32,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "28/04/2020",
+    "totalOcc": 32,
+    "arrRooms": 3,
+    "depRooms": 0
+  },
+  {
+    "date": "29/04/2020",
+    "totalOcc": 54,
+    "arrRooms": 2,
+    "depRooms": 0
+  },
+  {
+    "date": "30/04/2020",
+    "totalOcc": 49,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "01/05/2020",
+    "totalOcc": 37,
+    "arrRooms": 0,
+    "depRooms": 4
+  },
+  {
+    "date": "02/05/2020",
+    "totalOcc": 41,
+    "arrRooms": 1,
+    "depRooms": 2
+  },
+  {
+    "date": "03/05/2020",
+    "totalOcc": 35,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "04/05/2020",
+    "totalOcc": 38,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "05/05/2020",
+    "totalOcc": 54,
+    "arrRooms": 4,
+    "depRooms": 0
+  },
+  {
+    "date": "06/05/2020",
+    "totalOcc": 60,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "07/05/2020",
+    "totalOcc": 34,
+    "arrRooms": 2,
+    "depRooms": 0
+  },
+  {
+    "date": "08/05/2020",
+    "totalOcc": 36,
+    "arrRooms": 2,
+    "depRooms": 3
+  },
+  {
+    "date": "09/05/2020",
+    "totalOcc": 33,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "10/05/2020",
+    "totalOcc": 22,
+    "arrRooms": 0,
+    "depRooms": 6
+  },
+  {
+    "date": "11/05/2020",
+    "totalOcc": 29,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "12/05/2020",
+    "totalOcc": 29,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "13/05/2020",
+    "totalOcc": 22,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "14/05/2020",
+    "totalOcc": 40,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "15/05/2020",
+    "totalOcc": 22,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "16/05/2020",
+    "totalOcc": 22,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "17/05/2020",
+    "totalOcc": 22,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "18/05/2020",
+    "totalOcc": 22,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "19/05/2020",
+    "totalOcc": 22,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "20/05/2020",
+    "totalOcc": 30,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "21/05/2020",
+    "totalOcc": 27,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "22/05/2020",
+    "totalOcc": 23,
+    "arrRooms": 2,
+    "depRooms": 1
+  },
+  {
+    "date": "23/05/2020",
+    "totalOcc": 26,
+    "arrRooms": 0,
+    "depRooms": 2
+  },
+  {
+    "date": "24/05/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "25/05/2020",
+    "totalOcc": 28,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "26/05/2020",
+    "totalOcc": 28,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "27/05/2020",
+    "totalOcc": 34,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "28/05/2020",
+    "totalOcc": 26,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "29/05/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "30/05/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "31/05/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "01/06/2020",
+    "totalOcc": 28,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "02/06/2020",
+    "totalOcc": 28,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "03/06/2020",
+    "totalOcc": 34,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "04/06/2020",
+    "totalOcc": 26,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "05/06/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "06/06/2020",
+    "totalOcc": 26,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "07/06/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "08/06/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "09/06/2020",
+    "totalOcc": 54,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "10/06/2020",
+    "totalOcc": 67,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "11/06/2020",
+    "totalOcc": 59,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "12/06/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "13/06/2020",
+    "totalOcc": 26,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "14/06/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "15/06/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "16/06/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "17/06/2020",
+    "totalOcc": 39,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "18/06/2020",
+    "totalOcc": 46,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "19/06/2020",
+    "totalOcc": 21,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "20/06/2020",
+    "totalOcc": 4,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "21/06/2020",
+    "totalOcc": 4,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "22/06/2020",
+    "totalOcc": 4,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "23/06/2020",
+    "totalOcc": 4,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "24/06/2020",
+    "totalOcc": 17,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "25/06/2020",
+    "totalOcc": 9,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "26/06/2020",
+    "totalOcc": 4,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "27/06/2020",
+    "totalOcc": 4,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "28/06/2020",
+    "totalOcc": 4,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "29/06/2020",
+    "totalOcc": 4,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "30/06/2020",
+    "totalOcc": 4,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "01/07/2020",
+    "totalOcc": 29,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "02/07/2020",
+    "totalOcc": 10,
+    "arrRooms": 1,
+    "depRooms": 0
+  },
+  {
+    "date": "03/07/2020",
+    "totalOcc": 4,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "04/07/2020",
+    "totalOcc": 11,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "05/07/2020",
+    "totalOcc": 5,
+    "arrRooms": 1,
+    "depRooms": 0
+  },
+  {
+    "date": "06/07/2020",
+    "totalOcc": 5,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "07/07/2020",
+    "totalOcc": 7,
+    "arrRooms": 2,
+    "depRooms": 0
+  },
+  {
+    "date": "08/07/2020",
+    "totalOcc": 19,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "09/07/2020",
+    "totalOcc": 5,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "10/07/2020",
+    "totalOcc": 5,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "11/07/2020",
+    "totalOcc": 10,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "12/07/2020",
+    "totalOcc": 3,
+    "arrRooms": 0,
+    "depRooms": 2
+  },
+  {
+    "date": "13/07/2020",
+    "totalOcc": 3,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "14/07/2020",
+    "totalOcc": 3,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "15/07/2020",
+    "totalOcc": 28,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "16/07/2020",
+    "totalOcc": 23,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "17/07/2020",
+    "totalOcc": 3,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "18/07/2020",
+    "totalOcc": 8,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "19/07/2020",
+    "totalOcc": 3,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "20/07/2020",
+    "totalOcc": 3,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "21/07/2020",
+    "totalOcc": 3,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "22/07/2020",
+    "totalOcc": 16,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "23/07/2020",
+    "totalOcc": 3,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "24/07/2020",
+    "totalOcc": 3,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "25/07/2020",
+    "totalOcc": 8,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "26/07/2020",
+    "totalOcc": 3,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "27/07/2020",
+    "totalOcc": 106,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "28/07/2020",
+    "totalOcc": 106,
+    "arrRooms": 0,
+    "depRooms": 0
+  },
+  {
+    "date": "29/07/2020",
+    "totalOcc": 120,
+    "arrRooms": 1,
+    "depRooms": 0
+  },
+  {
+    "date": "30/07/2020",
+    "totalOcc": 106,
+    "arrRooms": 0,
+    "depRooms": 1
+  },
+  {
+    "date": "31/07/2020",
+    "totalOcc": 3,
+    "arrRooms": 0,
+    "depRooms": 0
+  }
+]
