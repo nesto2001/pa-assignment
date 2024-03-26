@@ -1,32 +1,21 @@
-import React from "react";
 import {
   AnimatedAxis, // any of these can be non-animated equivalents
   AnimatedGrid,
   AnimatedLineSeries,
-  XYChart,
-  Tooltip,
-  Grid,
-  TooltipData,
   Axis,
+  Tooltip,
   TooltipDatum,
+  XYChart
 } from "@visx/xychart";
-import { CityTemperature } from "@visx/mock-data/lib/mocks/cityTemperature";
-import { ForecastData } from "../../types/forecast";
-import dayjs from "dayjs";
 import { RenderTooltipParams } from "@visx/xychart/lib/components/Tooltip";
+import dayjs from "dayjs";
 import { ForecastMap } from "../../mappings/ForecastMapping";
+import { ForecastData } from "../../types/forecast";
 
 export type XYChartProps = {
   width: number;
   height: number;
 };
-
-interface RenderTooltipProps {
-  tooltipData: TooltipData<ForecastData>;
-  colorScale: (value: string) => string;
-}
-
-type City = "San Francisco" | "New York" | "Austin";
 
 type Props = {
   data: ForecastData[];

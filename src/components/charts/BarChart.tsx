@@ -4,7 +4,6 @@ import { Group } from "@visx/group";
 import { LegendItem, LegendLabel, LegendOrdinal } from "@visx/legend";
 import { scaleBand, scaleLinear, scaleOrdinal } from "@visx/scale";
 import { BarGroup } from "@visx/shape";
-import { TooltipData } from "@visx/xychart";
 import { PropertyMap } from "../../mappings/PropertyDataMapping";
 import { PropertyData } from "../../types/property";
 import ChartLegend from "./ChartLegend";
@@ -13,11 +12,6 @@ export type XYChartProps = {
   width: number;
   height: number;
 };
-
-interface RenderTooltipProps {
-  tooltipData: TooltipData<PropertyData>;
-  colorScale: (value: string) => string;
-}
 
 type Revenue = "roomRev" | "fnbRev" | "otherRev";
 

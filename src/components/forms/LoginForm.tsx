@@ -1,17 +1,15 @@
 import { Button, Form, Input, message } from "antd";
-import { login } from "../../services/auth";
-import { ILoginRequest } from "../../types/auth";
-import { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { login } from "../../services/auth";
 
-type Props = {};
+
 
 type FieldType = {
   username: string;
   password: string;
 };
 
-const LoginForm = (props: Props) => {
+const LoginForm = () => {
   const navigate = useNavigate();
 
   const handleLogin = (email: string, password: string) => {

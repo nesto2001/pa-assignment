@@ -4,8 +4,6 @@ import { PropertyData, PropertyJSON } from "../types/property";
 import BarChart from "../components/charts/BarChart";
 import { useParentSize } from "@visx/responsive";
 
-type Props = {};
-
 type Option = {
   label: string;
   value: string;
@@ -81,12 +79,12 @@ const columns: TableProps<PropertyData>["columns"] = [
   },
 ];
 
-const OverviewData = (props: Props) => {
+const OverviewData = () => {
   const [properties, setProperties] = useState<PropertyData[]>([]);
   const [propertiesOption, setPropertiesOption] = useState<Option[]>([]);
   const [selectedProperties, setSelectedProperties] = useState<string[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
-  const { parentRef, width, height } = useParentSize();
+  const { parentRef, width } = useParentSize();
 
   const getPropertyData = async (): Promise<PropertyData[]> => {
     try {

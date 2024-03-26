@@ -1,9 +1,7 @@
 import ForecastChart from "../../containers/ForecastChart";
 import DashboardLayout from "../../layouts/DashboardLayout";
 
-type Props = {};
-
-const index = (props: Props) => {
+const index = () => {
   return (
     <DashboardLayout>
       <div className="page__header text-4xl font-bold">Forecast</div>

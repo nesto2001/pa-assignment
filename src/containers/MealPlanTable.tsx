@@ -6,8 +6,6 @@ import { mapActualData, mapMealData } from "../mappings/MealDataMapping";
 import { MealReport } from "../types/meal";
 import { MealEnum, OutletReport, PeriodData } from "../types/outlet";
 import { writeToSheet } from "../utils/sheetUtil";
-import { useRef } from "react";
-import { TableRef } from "antd/es/table";
 
 type Props = {};
 
@@ -32,54 +30,54 @@ const levelOneColumns: TableColumnsType<MealReport> = [
   {
     title: "A. Count",
     key: "adultCount",
-    render: (value, record) => record.total.adultsActual.count,
+    render: (_value, record) => record.total.adultsActual.count,
     align: "right",
   },
   {
     title: "C. Count",
     key: "childCount",
-    render: (value, record) => record.total.childrenActual.count,
+    render: (_value, record) => record.total.childrenActual.count,
     align: "right",
   },
   {
     title: "A. Sale",
     key: "adultSale",
-    render: (value, record) => record.total.adultsActual.sales,
+    render: (_value, record) => record.total.adultsActual.sales,
     align: "right",
   },
   {
     title: "C. Sale",
     key: "childSale",
-    render: (value, record) => record.total.childrenActual.sales,
+    render: (_value, record) => record.total.childrenActual.sales,
     align: "right",
   },
   {
     title: "Count",
     key: "count",
-    render: (value, record) => record.total.totalActual.count,
+    render: (_value, record) => record.total.totalActual.count,
     align: "right",
   },
   {
     title: "Count %",
     key: "countPer",
-    render: (value, record) => record.total.totalActual.percentageCount + " %",
+    render: (_value, record) => record.total.totalActual.percentageCount + " %",
     align: "right",
   },
   {
     title: "Sale ",
     key: "operation",
-    render: (value, record) => record.total.totalActual.sales,
+    render: (_value, record) => record.total.totalActual.sales,
     align: "right",
   },
   {
     title: "Sale %",
     key: "operation",
-    render: (value, record) => record.total.totalActual.percentageSales + " %",
+    render: (_value, record) => record.total.totalActual.percentageSales + " %",
     align: "right",
   },
 ];
 
-const MealPlanTable = (props: Props) => {
+const MealPlanTable = (_props: Props) => {
   const mealDetails: MealReport[] = dashboardSampleV0_4MealDetailData.map(
     (item, index): MealReport => {
       return {
@@ -158,54 +156,54 @@ const MealPlanTable = (props: Props) => {
         title: "A. Count",
         dataIndex: "adultsCount",
         key: "adultsCount",
-        render: (value, record) => record.total.adultsActual.count,
+        render: (_value, record) => record.total.adultsActual.count,
         align: "right",
       },
       {
         title: "C. Count",
         dataIndex: "childrenCount",
         key: "childrenCount",
-        render: (value, record) => record.total.childrenActual.count,
+        render: (_value, record) => record.total.childrenActual.count,
         align: "right",
       },
       {
         title: "A. Sale",
         dataIndex: "adultsSale",
         key: "adultsSale",
-        render: (value, record) => record.total.adultsActual.sales,
+        render: (_value, record) => record.total.adultsActual.sales,
         align: "right",
       },
       {
         title: "C. Sale",
         dataIndex: "childrenSale",
         key: "childrenSale",
-        render: (value, record) => record.total.childrenActual.sales,
+        render: (_value, record) => record.total.childrenActual.sales,
         align: "right",
       },
       {
         title: "Count",
         dataIndex: "count",
         key: "count",
-        render: (value, record) => record.total.totalActual.count,
+        render: (_value, record) => record.total.totalActual.count,
         align: "right",
       },
       {
         title: "Count %",
         key: "countPer",
-        render: (value, record) =>
+        render: (_value, record) =>
           record.total.totalActual.percentageCount + " %",
         align: "right",
       },
       {
         title: "Sale ",
         key: "sales",
-        render: (value, record) => record.total.totalActual.sales,
+        render: (_value, record) => record.total.totalActual.sales,
         align: "right",
       },
       {
         title: "Sale %",
         key: "salePer",
-        render: (value, record) =>
+        render: (_value, record) =>
           record.total.totalActual.percentageSales + " %",
         align: "right",
       },
@@ -220,60 +218,60 @@ const MealPlanTable = (props: Props) => {
           dataIndex: "period",
           key: "period",
           width: 130,
-          render: (value, record) => record.meal,
+          render: (_value, record) => record.meal,
         },
         {
           title: "A. Count",
           dataIndex: "adultsCount",
           key: "adultsCount",
-          render: (value, record) => record.data.total.adultsActual.count,
+          render: (_value, record) => record.data.total.adultsActual.count,
           align: "right",
         },
         {
           title: "C. Count",
           dataIndex: "childCount",
           key: "childCount",
-          render: (value, record) => record.data.total.childrenActual.count,
+          render: (_value, record) => record.data.total.childrenActual.count,
           align: "right",
         },
         {
           title: "A. Sale",
           dataIndex: "adultSale",
           key: "adultSale",
-          render: (value, record) => record.data.total.adultsActual.sales,
+          render: (_value, record) => record.data.total.adultsActual.sales,
           align: "right",
         },
         {
           title: "C. Sale",
           dataIndex: "childSale",
           key: "childSale",
-          render: (value, record) => record.data.total.childrenActual.sales,
+          render: (_value, record) => record.data.total.childrenActual.sales,
           align: "right",
         },
         {
           title: "Count",
           dataIndex: "count",
           key: "count",
-          render: (value, record) => record.data.total.totalActual.count,
+          render: (_value, record) => record.data.total.totalActual.count,
           align: "right",
         },
         {
           title: "Count %",
           key: "countPer",
-          render: (value, record) =>
+          render: (_value, record) =>
             record.data.total.totalActual.percentageCount + " %",
           align: "right",
         },
         {
           title: "Sale ",
           key: "sales",
-          render: (value, record) => record.data.total.totalActual.sales,
+          render: (_value, record) => record.data.total.totalActual.sales,
           align: "right",
         },
         {
           title: "Sale %",
           key: "salesPer",
-          render: (value, record) =>
+          render: (_value, record) =>
             record.data.total.totalActual.percentageSales + " %",
           align: "right",
         },
@@ -285,43 +283,43 @@ const MealPlanTable = (props: Props) => {
             title: "Room",
             dataIndex: "room",
             key: "room",
-            render: (value, record) => record.data.room,
+            render: (_value, record) => record.data.room,
           },
           {
             title: "Guest Names",
             dataIndex: "guests",
             key: "guests",
-            render: (value, record) => record.data.guestNames,
+            render: (_value, record) => record.data.guestNames,
           },
           {
             title: "Count",
             dataIndex: "pCount",
             key: "pCount",
-            render: (value, record) => record.data.count,
+            render: (_value, record) => record.data.count,
           },
           {
             title: "Pax",
             dataIndex: "pax",
             key: "pax",
-            render: (value, record) => record.data.pax,
+            render: (_value, record) => record.data.pax,
           },
           {
             title: "Time",
             dataIndex: "timestamp",
             key: "timestamp",
-            render: (value, record) => record.timestamp,
+            render: (_value, record) => record.timestamp,
           },
           {
             title: "PKG Code",
             dataIndex: "packageCode",
             key: "packageCode",
-            render: (value, record) => record.data.packageCode,
+            render: (_value, record) => record.data.packageCode,
           },
           {
             title: "Remark",
             dataIndex: "remark",
             key: "remark",
-            render: (value, record) => record.data.remark,
+            render: (_value, record) => record.data.remark,
           },
         ];
 

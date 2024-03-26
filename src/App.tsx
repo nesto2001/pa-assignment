@@ -1,5 +1,3 @@
-import { onAuthStateChanged } from "firebase/auth";
-import { useEffect } from "react";
 import {
   ActionFunction,
   BrowserRouter,
@@ -7,7 +5,6 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
-import { auth } from "./services/firebaseConfig";
 
 interface IRoute {
   path: string;

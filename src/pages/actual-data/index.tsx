@@ -1,10 +1,7 @@
-import BarChart from "../../components/charts/BarChart";
 import OverviewData from "../../containers/OverviewData";
 import DashboardLayout from "../../layouts/DashboardLayout";
 
-type Props = {};
-
-const index = (props: Props) => {
+const index = () => {
   return (
     <DashboardLayout>
       <div className="page__header text-4xl font-bold">Overview</div>
@@ -15,7 +12,6 @@ const index = (props: Props) => {
         <div className="overview__stats w-full">
           <OverviewData />
         </div>
-        
       </div>
     </DashboardLayout>
   );

@@ -1,18 +1,18 @@
 import {
   DesktopOutlined,
   PieChartOutlined,
-  UserOutlined,
   PoweroffOutlined,
+  UserOutlined,
 } from "@ant-design/icons";
 import type { MenuProps } from "antd";
-import { Breadcrumb, Image, Layout, Menu } from "antd";
+import { Image, Layout, Menu } from "antd";
+import { onAuthStateChanged, signOut } from "firebase/auth";
 import React, { useEffect, useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Logo } from "../assets";
-import { onAuthStateChanged, signOut } from "firebase/auth";
 import { auth } from "../services/firebaseConfig";
 
-const { Header, Content, Footer, Sider } = Layout;
+const { Content, Sider } = Layout;
 
 type Props = {
   children: React.ReactNode;

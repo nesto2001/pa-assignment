@@ -1,10 +1,10 @@
-import { Card, Image, message } from "antd";
+import { Card } from "antd";
+import { onAuthStateChanged } from "firebase/auth";
+import { useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 import { Logo } from "../assets";
 import LoginForm from "../components/forms/LoginForm";
-import { useEffect } from "react";
-import { onAuthStateChanged } from "firebase/auth";
 import { auth } from "../services/firebaseConfig";
-import { useNavigate } from "react-router-dom";
 
 const index = () => {
   const navigate = useNavigate();

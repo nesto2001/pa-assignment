@@ -4,15 +4,13 @@ import { useEffect, useState } from "react";
 import LineChart from "../components/charts/LineChart";
 import { ForecastData, ForecastDataJSON } from "../types/forecast";
 
-type Props = {};
-
 const periodOptions = [
   { label: "This month", value: 1 },
   { label: "3 months", value: 3 },
   { label: "6 months", value: 6 },
 ];
 
-const ForecastChart = (props: Props) => {
+const ForecastChart = () => {
   const [ForecastData, setForecastData] = useState<ForecastData[]>([]);
   const [lastestRecordDate, setLastestRecordDate] = useState<number>();
   const [selectedPeriod, setSelectedPeriod] = useState<number>(
