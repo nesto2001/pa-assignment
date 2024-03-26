@@ -11,7 +11,7 @@ const periodOptions = [
 ];
 
 const ForecastChart = () => {
-  const [ForecastData, setForecastData] = useState<ForecastData[]>([]);
+  const [forecastData, setForecastData] = useState<ForecastData[]>([]);
   const [lastestRecordDate, setLastestRecordDate] = useState<number>();
   const [selectedPeriod, setSelectedPeriod] = useState<number>(
     periodOptions[0].value
@@ -79,16 +79,18 @@ const ForecastChart = () => {
           Forecast Total Occ., Arr. Rooms, and Dep. Rooms in{" "}
           {selectedPeriod === 1 ? "this month" : `${selectedPeriod} months`}
         </h3>
-        <LineChart
-          data={ForecastData.filter((data) => {
-            return (
-              dayjs(lastestRecordDate).isAfter(data.date) &&
-              dayjs(lastestRecordDate)
-                .subtract(selectedPeriod, "month")
-                .isBefore(data.date)
-            );
-          })}
-        />
+        {forecastData && forecastData.length > 0 && (
+          <LineChart
+            data={forecastData.filter((data) => {
+              return (
+                dayjs(lastestRecordDate).isAfter(data.date) &&
+                dayjs(lastestRecordDate)
+                  .subtract(selectedPeriod, "month")
+                  .isBefore(data.date)
+              );
+            })}
+          />
+        )}
       </Card>
     </div>
   );
